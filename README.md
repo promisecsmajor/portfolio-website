@@ -1,5 +1,6 @@
 # portfolio-website
 my personal portfolio website
 
-## Subheader
-I am watching a tutorial on Youtube.
+## About Project
+I created a portfolio website with a custom domain to showcase the work
+I have done for the past 3 years!
